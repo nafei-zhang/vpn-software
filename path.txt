@@ -1,0 +1,2 @@
+C:\Users\HUAWEI\AppData\Local\electron\Cache\b146e6f0c853ade72848600aeb0c65869b14f6b759e19a92f974a6bbdcb10acd
+C:\Users\HUAWEI\AppData\Local\electron-builder\Cache\nsis
